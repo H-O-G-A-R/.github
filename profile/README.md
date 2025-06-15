@@ -3,7 +3,7 @@
 HOGAR Optimizes Grading, Assessment, and Reflection
 
 ## TODO
-**Legend**
+**Legend**  
 💭 = Ideation & Research  
 💻 = Implementation  
 📈 = Presentation  
