@@ -3,10 +3,11 @@
 HOGAR Optimizes Grading, Assessment, and Reflection
 
 ## TODO
-💭 = Ideation & Research
-💻 = Implementation
-📈 = Presentation
-🕸️ = Abandoned (or blocked until the end of time)
+**Legend**
+💭 = Ideation & Research  
+💻 = Implementation  
+📈 = Presentation  
+🕸️ = Abandoned (or blocked until the end of time)  
 
 * Project Selection 💭
 * Remote Cloud Storage 💻
