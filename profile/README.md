@@ -11,10 +11,10 @@ HOGAR Optimizes Grading, Assessment, and Reflection
 
 * Project Selection 💭
 * Remote Cloud Storage 💻
-* Canvas API Ingestion 💭
-* Zoom API Ingestion 💭
+* Canvas API Ingestion 💻
+* Zoom API Ingestion 💻
 * Canvas Leaderboard 💻
 * Canvas Wrapped 💻
-* Student Intervention Dashboard 💭
+* Student Intervention Dashboard 💻
 * Targeted Grade Assistance 💭
 * N8N Integration 💭
