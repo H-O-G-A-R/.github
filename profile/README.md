@@ -10,11 +10,11 @@ HOGAR Optimizes Grading, Assessment, and Reflection
 🕸️ = Abandoned (or blocked until the end of time)  
 
 * Project Selection 💭
-* Remote Cloud Storage 💻
-* Canvas API Ingestion 💻
+* Remote Cloud Storage 📈
+* Canvas API Ingestion 📈
 * Zoom API Ingestion 💻
-* Canvas Leaderboard 💻
-* Canvas Wrapped 💻
-* Student Intervention Dashboard 💻
+* Canvas Leaderboard 📈
+* Canvas Wrapped 📈
+* Student Intervention Dashboard 📈
 * Targeted Grade Assistance 💭
 * N8N Integration 💭
