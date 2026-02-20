@@ -10,14 +10,20 @@ HOGAR Optimizes Grading, Assessment, and Reflection
 🤖 = Live Process
 🕸️ = Abandoned (or blocked until the end of time)  
 
+Architecture
 * Remote Cloud Storage 🤖
 * Canvas API Ingestion 🤖
 * Zoom API Ingestion 🕸️
+  
+Student Management
 * Clicker Leaderboard 💻
 * Canvas Wrapped 💻
 * IPP Student Tracking Dashboard 🤖
 * CASA Slack Bot for Student Message Management 💻
+* Retention Risk Calculator 💭
 * Case Management Dash 💭
-* Hypothesis Library 💻
 * Targeted Grade Assistance 💭
 * N8N Integration 💭
+
+Future Planning
+* Hypothesis Library 💻
