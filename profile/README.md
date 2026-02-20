@@ -7,7 +7,7 @@ HOGAR Optimizes Grading, Assessment, and Reflection
 💭 = Ideation & Research  
 💻 = Implementation  
 📈 = Presentation  
-🤖 = Live Process
+🤖 = Live Process  
 🕸️ = Abandoned (or blocked until the end of time)  
 
 Architecture
